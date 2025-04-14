@@ -26,3 +26,4 @@ Secure Login and Sign Up pages
 Payment and Checkout screens
 Terms & Conditions and Privacy Policy templates
 samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/design/ect6ZKgqDDGVNSbaoY7hML/Medical-Health-Mobile-App-Dermatology-App-Ui-Kit-Doctor-Mobile-App--Community-?node-id=0-1&t=Okn0qteadmk3E0NV-1
